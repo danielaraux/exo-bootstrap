@@ -1,0 +1,23 @@
+Il y a plusieurs framework CSS : Bootstrap, Tailwind CSS ect.
+Cela permet de faire du style avec uniquement l'index.html
+
+
+Pour l'installer on peut le faire via NPM install bootstrap@5.3.6 ( (noté sur le site de bootstrap)
+
+
+
+Pour utiliser un framework, il faut ajouter le CDN (en tout cas pour bootstrap) dans les links du index.html
+
+Et regarder la doc du framework
+
+
+Pour ajouter du style, il faudra ajouter les classes correspondantes sur le fichier .html
+
+
+Exemple pour centrer un titre : 
+
+<h1 class="text-center">Contenu</h1>
+
+Exemple pour changer la couleur en bleu (le primary est configuré par bootstrap, il faudra regarder la doc pour savoir) : 
+
+<h1 class="text-center text-primary">Contenu</h1>
