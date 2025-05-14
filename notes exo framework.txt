@@ -1,3 +1,13 @@
+Le menu burger sur la version mobile fait réduire le "Dylan Inc." et le met à droite en petit. Les éléments en block avec le footer en bas.
+
+
+
+
+
+
+
+
+
 Il y a plusieurs framework CSS : Bootstrap, Tailwind CSS ect.
 Cela permet de faire du style avec uniquement l'index.html
 
@@ -21,3 +31,4 @@ Exemple pour centrer un titre :
 Exemple pour changer la couleur en bleu (le primary est configuré par bootstrap, il faudra regarder la doc pour savoir) : 
 
 <h1 class="text-center text-primary">Contenu</h1>
+
