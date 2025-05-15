@@ -1,3 +1,18 @@
+Le menu burger sur la version mobile fait réduire le "Dylan Inc." et le met à droite en petit. Les éléments en block avec le footer en bas.
+
+
+container-fluid : pour mieux resize l'écran pour le responsive (si ça met un scroll horizontal, cette commande va l'enlever)
+et full width container
+
+min-vh-100 : pour spécifier la taille minimale de la hauteur verticale de la page
+
+mx-auto : Pour aider à centrer un élément horizontalement, peut s'utiliser avec du width50% et donc margin 0 auto (mx-auto)
+
+
+
+
+
+
 Il y a plusieurs framework CSS : Bootstrap, Tailwind CSS ect.
 Cela permet de faire du style avec uniquement l'index.html
 
@@ -21,3 +36,4 @@ Exemple pour centrer un titre :
 Exemple pour changer la couleur en bleu (le primary est configuré par bootstrap, il faudra regarder la doc pour savoir) : 
 
 <h1 class="text-center text-primary">Contenu</h1>
+
